@@ -3,7 +3,7 @@ Project: Landing Page
 
 A project where I am replicating a landing page using flexbox for The Odin Project curriculum.
 
-##Image Credits:
+# Image Credits
 
 Cat Logo: https://freesvg.org/cat-on-tv-vector-image
 
