@@ -1,0 +1,80 @@
+body {
+    background-color: white;
+    font-family: "Roboto", arial;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    padding: 20px 0px 20px 100px;
+    margin: 0;
+}
+
+.header-logo {
+    margin-right: auto;
+}
+
+.header-links {
+    margin-left: auto;
+    display: flex;
+    font-family: "Roboto", arial;
+    padding: 20px;
+}
+
+.header-links a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.team {
+    align-items: center;
+    padding: 50px;
+}
+
+.team h1, h2 {
+    text-align: center;
+}
+
+.team-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.team-info img {
+    border-radius: 10px;
+    border: 5px solid #1F2937;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin: 0px 0px 0px 10px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    background-color: #E5E7EB;
+}
+
+.quote p {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: "Roboto", arial;
+    text-align: justify;
+}
+
+.quote-src {
+    font-size: 24px;
+    text-align: right;
+}

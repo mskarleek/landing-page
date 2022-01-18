@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2989" height="210mm" width="297mm" version="1.1">
+  <defs id="defs2991">
+    <pattern id="pattern5335" xlink:href="#Checkerboard" patternTransform="matrix(10 0 0 10 -9.5238 -3.1746)"/>
+    <pattern id="Checkerboard" height="2" width="2" patternUnits="userSpaceOnUse" patternTransform="translate(0) scale(10)">
+      <rect id="rect4608" height="1" width="1" y="0" x="0"/>
+      <rect id="rect4610" height="1" width="1" y="1" x="1"/>
+    </pattern>
+  </defs>
+  <g id="layer1">
+    <rect id="rect2998" style="color:#000000" height="546.03" width="885.71" stroke="#000" y="72.666" x="80.952" stroke-width="3.5433" fill="url(#pattern5335)"/>
+    <rect id="rect3000" style="color:#000000" height="57.143" width="442.86" stroke="#000" y="621.87" x="334.92" stroke-width="3.5433" fill="#e4f1ea"/>
+    <rect id="rect3002" style="color:#000000" height="19.048" width="661.9" stroke="#000" y="677.43" x="217.46" stroke-width="3.5433" fill="#e4f1ea"/>
+    <rect id="rect3004" style="color:#000000" height="546.01" width="36.488" y="72.676" x="143.63" fill="#e4f1ea"/>
+    <rect id="rect3004-2" style="color:#000000" height="547.59" width="36.483" y="69.504" x="873.41" fill="#e4f1ea"/>
+    <rect id="rect3024" style="color:#000000" height="53.686" width="696.54" y="72.807" x="177.92" fill="#e4f1ea"/>
+    <rect id="rect3024-0" style="color:#000000" height="62.895" width="696.23" y="551.54" x="178.87" fill="#e4f1ea"/>
+    <rect id="rect3044" style="color:#000000" height="426.98" width="690.48" stroke="#000" y="129.81" x="182.54" stroke-width="3.5433" fill="#00f"/>
+    <path id="path5291" style="color:#000000" d="m779.03 637.5-0.58216 29.88-300.31-29.929-149.68-14.763 300.89 0.0496 149.06-0.0248z" fill-opacity=".57705" fill="#4e4b4b"/>
+    <g id="g5355" transform="matrix(.32720 0 0 .32720 157.98 171.1)">
+      <path id="path2987" style="color:#000000" d="m1395.8 239.22c-0.4653 5.8504-3.4507-0.89209-4.316 0.27007-33.082 44.431-54.636 93.04-64.803 182.26-5.2084 45.705 8.2987 83.333 25.706 112.44-41.465 55.896-56.331 128.29-56.331 203.61 0 79.177-5.7932 128.59 39.589 185.86-36.823 97.328-90.259 104.98-53.576 219.85 12.89 40.365 185.35 17.641 379.81 17.641s354.71 6.9027 357.35-21.76c14.273-154.66 5.4297-73.821-66.179-188.04 19.229-42.431 28.585-150.06 28.585-199.81 0-54.905-17.16-114.96-40.298-160.66 21.155-23.635 28.306-60.426 32.422-101.98 9.4257-95.144 27.165-190-16.246-207.2-43.411-17.204-109.95 72.331-175.87 134.4-68.398-13.9-16.915-6.6754-133.5-23.258-101.65-0.22483-74.419 44.324-127.83 6.5134-34.18-91.108-120.99-204.53-124.52-160.14z" fill-opacity=".97214" fill="#fcfbfd"/>
+      <path id="path3770" style="color:#000000" d="m1533.5 549.62c-24.081 0.19315-43.686 12.343-45.281 29.125-1.7597 18.518 19.062 35.643 46.5 38.25 27.438 2.6073 51.115-10.294 52.875-28.812 1.7597-18.518-19.062-35.643-46.5-38.25-2.5723-0.24444-5.1026-0.33248-7.5938-0.3125zm247.91 13.719c-2.4911-0.02-5.0214 0.0993-7.5937 0.34375-27.438 2.6073-48.26 19.732-46.5 38.25 1.7597 18.518 25.437 31.42 52.875 28.812 27.438-2.6073 48.26-19.732 46.5-38.25-1.5948-16.782-21.2-28.963-45.281-29.156zm-154 88.969 30.375 26.438 15.469 30.625-9.0937 46.469-76.906 31.594 83.688-22.969l80 28.03-72.062-36.219-2.625-49.531 14.344-27.938 30.563-26.344-46.906 5.7812-46.875-5.9375z" fill-opacity=".96594" fill="#030605"/>
+    </g>
+    <rect id="rect5383" style="color:#000000" height="25.422" width="246.4" y="528" x="573.92" fill="#f5f4fd"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>TV cat</dc:title>
+        <dc:date>2013-11-18T01:13:42</dc:date>
+        <dc:description>Head of white cat in TV, like newsfrontman</dc:description>
+        <dc:source>http://openclipart.org/detail/188859/tv-cat-by-user-unknown-188859</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>user unknown</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cat</rdf:li>
+            <rdf:li>TV</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
